@@ -1,0 +1,25 @@
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# Python bytecode (compiled files)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE specific folders (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Distribution / Build folders
+dist/
+build/
+*.egg-info/
+
+# Data files (Optional: keep these if small, ignore if huge)
+*.csv
+*.json
